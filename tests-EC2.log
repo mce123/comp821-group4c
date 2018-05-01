@@ -1,0 +1,33 @@
+New Test Started at 2018-04-24 18:45:35.397492
+Test Mode: Upload with .test File
+Input .test File: upload8-npy-7z.test
+Bucket Path: s3://comp821-m1.spring2018/
+Max Threads: 4
+Number of Files Processed: 1
+Time elapsed (hh:mm:ss.ms) 0:00:01.847506
+
+
+New Test Started at 2018-05-01 19:12:38.979354
+Test Mode: Sync Download
+Output Directory: testdir
+Bucket Path: s3://comp821-m1.spring2018/
+Number of Files Processed: 189
+Time elapsed (hh:mm:ss.ms) 0:00:21.718960
+
+
+New Test Started at 2018-05-01 19:21:05.424459
+Test Mode: Download with .test File
+Input .test File: download13-all.test
+Bucket Path: s3://comp821-m1.spring2018/
+Max Threads: 4
+Number of Files Processed: 189
+Time elapsed (hh:mm:ss.ms) 0:01:02.923262
+
+
+New Test Started at 2018-05-01 19:23:52.448514
+Test Mode: Download with .test File
+Input .test File: download13-all.test
+Bucket Path: s3://comp821-m1.spring2018/
+Max Threads: 7
+Number of Files Processed: 189
+Time elapsed (hh:mm:ss.ms) 0:01:02.332245
